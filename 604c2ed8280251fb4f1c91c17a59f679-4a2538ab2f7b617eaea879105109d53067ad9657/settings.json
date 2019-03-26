@@ -1,0 +1,12 @@
+{
+
+
+
+    "workbench.colorTheme": "Night Owl",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "sync.gist": "604c2ed8280251fb4f1c91c17a59f679",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+}

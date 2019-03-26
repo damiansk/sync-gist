@@ -1,0 +1,62 @@
+[
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.2.7"
+  },
+  {
+    "metadata": {
+      "id": "f30b63fa-e34a-40af-a573-5de5ecfb6c5e",
+      "publisherId": "k--kato.intellij-idea-keybindings",
+      "publisherDisplayName": "k--kato"
+    },
+    "name": "intellij-idea-keybindings",
+    "publisher": "k--kato",
+    "version": "0.2.31"
+  },
+  {
+    "metadata": {
+      "id": "e58f546c-babc-455f-a265-ba40dbd140d4",
+      "publisherId": "sdras.night-owl",
+      "publisherDisplayName": "sdras"
+    },
+    "name": "night-owl",
+    "publisher": "sdras",
+    "version": "0.4.2"
+  },
+  {
+    "metadata": {
+      "id": "fb374ce1-5343-46c8-a425-900fdad15523",
+      "publisherId": "wesbos.theme-cobalt2",
+      "publisherDisplayName": "wesbos"
+    },
+    "name": "theme-cobalt2",
+    "publisher": "wesbos",
+    "version": "2.1.6"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "1.8.2"
+  },
+  {
+    "metadata": {
+      "id": "5a6dc0d5-dc02-4121-8e24-cad33a2ff0af",
+      "publisherId": "ms-vsliveshare.vsliveshare",
+      "publisherDisplayName": "ms-vsliveshare"
+    },
+    "name": "vsliveshare",
+    "publisher": "ms-vsliveshare",
+    "version": "0.3.1326"
+  }
+]
